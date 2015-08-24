@@ -1,0 +1,4449 @@
+<?xml version="1.0"?>
+<partnerContent>
+  <seriesItems>
+    <thePlatformFeedMarker/>
+    <series tmsId="SH019041680000">
+      <title>BOOM!</title>
+      <episodes>
+        <episode tmsId="EP019041680009">
+          <title>It’s the Sweet Potato Bomb!</title>
+          <playId>boom_01_08</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019041680008">
+          <title>It's the Turkey Gravy Bomb!</title>
+          <playId>boom_01_07</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019041680007">
+          <title>It's the Hot Fudge Bomb!</title>
+          <playId>boom_01_06</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019041680005">
+          <title>It's the Blueberry Slushie Bomb!</title>
+          <playId>boom_01_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019041680004">
+          <title>It's the Creamed Spinach Bomb!</title>
+          <playId>boom_01_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019041680003">
+          <title>It's the Wedding Cake Bomb!</title>
+          <playId>boom_01_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019041680002">
+          <title>It's the Macaroni &amp; Cheese Bomb!</title>
+          <playId>boom_01_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019041680001">
+          <title>It's the Maple Syrup Bomb!</title>
+          <playId>boom_01_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH021773810000">
+      <title>Home Free</title>
+      <episodes>
+        <episode tmsId="EP021773810006">
+          <title>Holmes Sweet Home</title>
+          <playId>home-free_01_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP021773810005">
+          <title>Hammer It Holmes</title>
+          <playId>home-free_01_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP021773810004">
+          <title>Holmes Rules</title>
+          <playId>home-free_01_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP021773810003">
+          <title>No Place Like Holmes</title>
+          <playId>home-free_01_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP021773810001">
+          <title>Welcome Holmes</title>
+          <playId>home-free_01_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH012513470000">
+      <title>MasterChef</title>
+      <episodes>
+        <episode tmsId="EP012513470119">
+          <title>A Storms A Brewing</title>
+          <playId>masterchef_06_15</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470118">
+          <title>Getting A-Head in the Competition</title>
+          <playId>masterchef_06_14</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470117">
+          <title>Little Southern Flare</title>
+          <playId>masterchef_06_13</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470116">
+          <title>Family Reunion</title>
+          <playId>masterchef_06_12</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470115">
+          <title>Moo-vers and Bakers</title>
+          <playId>masterchef_06_11</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470114">
+          <title>Rice Rice Baby</title>
+          <playId>masterchef_06_10</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470113">
+          <title>Gordon's Greatest Hits</title>
+          <playId>masterchef_06_09</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470112">
+          <title>Happy Birthday MASTERCHEF</title>
+          <playId>masterchef_06_08</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470111">
+          <title>Bring Home the Bacon</title>
+          <playId>masterchef_06_07</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470110">
+          <title>What Happens in Vegas Steaks in Vegas</title>
+          <playId>masterchef_06_06</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470109">
+          <title>Clawing to Victory</title>
+          <playId>masterchef_06_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470108">
+          <title>Cinnamon Roll-er Coaster</title>
+          <playId>masterchef_06_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470107">
+          <title>You're The Apple Of My Eye</title>
+          <playId>masterchef_06_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470106">
+          <title>The Battle Continues</title>
+          <playId>masterchef_06_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470104">
+          <title>Let the Battle Commence</title>
+          <playId>masterchef_06_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH009017900000">
+      <title>Are You Smarter Than A 5th Grader</title>
+      <episodes>
+        <episode tmsId="EP009017900213">
+          <title>Caleb (Part 2) ) /Evan (Part 1)</title>
+          <playId>are-you-smarter-than-a-5th-grader_04_09</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP009017900212">
+          <title>Brent (Part 2) / Caleb (Part 1)</title>
+          <playId>are-you-smarter-than-a-5th-grader_04_08</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP009017900211">
+          <title>Anthony / Brent (Part 1)</title>
+          <playId>are-you-smarter-than-a-5th-grader_04_07</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP009017900209">
+          <title>Christi / Shawn</title>
+          <playId>are-you-smarter-than-a-5th-grader_04_06</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP009017900208">
+          <title>Briana</title>
+          <playId>are-you-smarter-than-a-5th-grader_04_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP009017900207">
+          <title>Michelle / Ryan</title>
+          <playId>are-you-smarter-than-a-5th-grader_04_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Robin (Part 2) / Alex</title>
+          <playId>are-you-smarter-than-a-5th-grader_04_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Raul / Robin (Part 1)</title>
+          <playId>are-you-smarter-than-a-5th-grader_04_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Tolton</title>
+          <playId>are-you-smarter-than-a-5th-grader_04_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH007517000000">
+      <title>So You Think You Can Dance</title>
+      <episodes>
+        <episode tmsId="EP007517000286">
+          <title>Top 10 Perform + Elimination</title>
+          <playId>so-you-think-you-can-dance_12_13</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007517000285">
+          <title>Top 14 Perform + Elimination</title>
+          <playId>so-you-think-you-can-dance_12_12</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007517000284">
+          <title>Top 16 Perform + Elimination</title>
+          <playId>so-you-think-you-can-dance_12_11</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007517000283">
+          <title>Top 18 Perform + Elimination</title>
+          <playId>so-you-think-you-can-dance_12_09</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007517000283">
+          <title>A Decade of Dance</title>
+          <playId>so-you-think-you-can-dance_12_08a</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007517000280">
+          <title>Top 20 Perform + Elimination</title>
+          <playId>so-you-think-you-can-dance_12_08</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007517000279">
+          <title>Top 20 Perform</title>
+          <playId>so-you-think-you-can-dance_12_07</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007517000278">
+          <title>Vegas Callbacks #2 / Top 20 Chosen</title>
+          <playId>so-you-think-you-can-dance_12_06</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007517000277">
+          <title>Vegas Callbacks #1</title>
+          <playId>so-you-think-you-can-dance_12_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007517000276">
+          <title>Auditions #4: New York</title>
+          <playId>so-you-think-you-can-dance_12_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007517000275">
+          <title>Auditions #3: Los Angeles</title>
+          <playId>so-you-think-you-can-dance_12_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Auditions #2: Detroit</title>
+          <playId>so-you-think-you-can-dance_12_2</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Auditions #1: Memphis and Dallas</title>
+          <playId>so-you-think-you-can-dance_12_1</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH004783210000">
+      <title>Teen Choice</title>
+      <episodes>
+        <episode tmsId="">
+          <title>Teen Choice 2015</title>
+          <playId>teen-choice-awards_20150816</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH021933370000">
+      <title>Knock Knock Live</title>
+      <episodes>
+        <episode tmsId="EP021933370003">
+          <title>Episode 2</title>
+          <playId>knock-knock-live_01_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP021933370001">
+          <title>Episode 1</title>
+          <playId>knock-knock-live_01_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH016769470000">
+      <title>Wayward Pines</title>
+      <episodes>
+        <episode tmsId="EP016769470018">
+          <title>Cycle</title>
+          <playId>wayward-pines_01_10</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP016769470017">
+          <title>A Reckoning</title>
+          <playId>wayward-pines_01_09</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP016769470016">
+          <title>The Friendliest Place on Earth</title>
+          <playId>wayward-pines_01_08</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP016769470015">
+          <title>Betrayal</title>
+          <playId>wayward-pines_01_07</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP016769470014">
+          <title>Choices</title>
+          <playId>wayward-pines_01_06</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>The Truth</title>
+          <playId>wayward-pines_05_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>One of Our Senior Realtors Has Chosen to Retire</title>
+          <playId>wayward-pines_04_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Our Town, Our Law</title>
+          <playId>wayward-pines_03_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP016769470002">
+          <title>Do Not Discuss Your Life Before</title>
+          <playId>wayward-pines_01_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP016769470001">
+          <title>Where Paradise is Home</title>
+          <playId>wayward-pines_01_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH021762820000">
+      <title>Golan The Insatiable</title>
+      <episodes>
+        <episode tmsId="">
+          <title>Golan the Impregnable</title>
+          <playId>golan-the-insatiable_02_06</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>On Golan Pond</title>
+          <playId>golan-the-insatiable_02_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Shell-Raiser</title>
+          <playId>golan-the-insatiable_02_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Shame on Pee</title>
+          <playId>golan-the-insatiable_02_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Winter is Staying</title>
+          <playId>golan-the-insatiable_02_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Pilot</title>
+          <playId>golan-the-insatiable_02_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH021597900000">
+      <title>Bullseye</title>
+      <episodes>
+        <episode tmsId="EP021597900006">
+          <title>Zip Timeline</title>
+          <playId>bullseye_01_08</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP021597900008">
+          <title>Super Soaker</title>
+          <playId>bullseye_01_07</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP021597900005">
+          <title>Corkscrewed</title>
+          <playId>bullseye_01_06</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP021597900007">
+          <title>Defying Gravity</title>
+          <playId>bullseye_01_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP021597900003">
+          <title>Jet Ski Jamboree</title>
+          <playId>bullseye_01_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP021597900004">
+          <title>Bumper Cars</title>
+          <playId>bullseye_01_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Runaway Train</title>
+          <playId>bullseye_01_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Buggy Jump</title>
+          <playId>bullseye_01_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH022083200000">
+      <title>Specials On FOX</title>
+      <episodes>
+        <episode tmsId="">
+          <title>Beat the Champions</title>
+          <playId>beat-the-champions_01_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH020623600000">
+      <title>World's Funniest</title>
+      <episodes>
+        <episode tmsId="EP020623600001">
+          <title>Animals: Nature's Biggest Jerks</title>
+          <playId>worlds-funniest_01_10</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP020623600010">
+          <title>All Creatures Great and Uncoordinated</title>
+          <playId>worlds-funniest-fails_01_09</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP020623600005">
+          <title>Kids Survive the Darndest Things</title>
+          <playId>worlds-funniest-fails_01_08</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP020623600009">
+          <title>Baby Got Fail</title>
+          <playId>worlds-funniest-fails_01_07</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP020623600004">
+          <title>Gotta Sing! Gotta Dance! Gotta Fail!</title>
+          <playId>worlds-funniest-fails_01_06</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP020623600008">
+          <title>Gravity: It Kinda Sucks</title>
+          <playId>worlds-funniest-fails_01_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP020623600007">
+          <title>Dogs and Babies: Together at Last!</title>
+          <playId>worlds-funniest-fails_01_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP020623600004">
+          <title>Horses: They Just Don't Like Us</title>
+          <playId>worlds-funniest-fails_01_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP020623600002">
+          <title>Trees: Man's Only Natural Predator</title>
+          <playId>worlds-funniest-fails_01_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP020623600003">
+          <title>Dance Like No Paramedics Are Watching</title>
+          <playId>worlds-funniest-fails_01_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH007542010000">
+      <title>Bones</title>
+      <episodes>
+        <episode tmsId="EP007542010269">
+          <title>The Next in the Last</title>
+          <playId>bones_10_22</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007542010258">
+          <title>The Life in the Light</title>
+          <playId>bones_10_21</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007542010268">
+          <title>The Woman in the Whirlpool</title>
+          <playId>bones_10_20</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007542010267">
+          <title>The Murder in the Middle East</title>
+          <playId>bones_10_19</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007542010266">
+          <title>The Verdict in the Victims</title>
+          <playId>bones_10_18</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH007399290000">
+      <title>Hell's Kitchen</title>
+      <episodes>
+        <episode tmsId="EP007399290304">
+          <title>Winner Chosen</title>
+          <playId>hells-kitchen_14_16</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007399290316">
+          <title>4 Chefs Compete</title>
+          <playId>hells-kitchen_14_15</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007399290315">
+          <title>5 Chefs Compete</title>
+          <playId>hells-kitchen_14_14</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007399290314">
+          <title>6 Chefs Compete</title>
+          <playId>hells-kitchen_14_13</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007399290313">
+          <title>7 Chefs Compete</title>
+          <playId>hells-kitchen_14_12</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007399290311">
+          <title>8 Chefs Compete Again</title>
+          <playId>hells-kitchen_14_11</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>8 Chefs Compete</title>
+          <playId>hells-kitchen_14_10</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007399290309">
+          <title>9 Chefs Compete</title>
+          <playId>hells-kitchen_14_09</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007399290308">
+          <title>11 Chefs Compete</title>
+          <playId>hells-kitchen_14_08</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007399290307">
+          <title>12 Chefs Compete</title>
+          <playId>hells-kitchen_14_07</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007399290306">
+          <title>13 Chefs Compete</title>
+          <playId>hells-kitchen_14_06</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007399290303">
+          <title>14 Chefs Compete</title>
+          <playId>hells-kitchen_14_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007399290303">
+          <title>15 Chefs Compete</title>
+          <playId>hells-kitchen_14_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007399290302">
+          <title>16 Chefs Compete</title>
+          <playId>hells-kitchen_14_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007399290301">
+          <title>17 Chefs Compete</title>
+          <playId>hells-kitchen_14_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP007399290297">
+          <title>18 Chefs Compete</title>
+          <playId>hells-kitchen_14_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH015680560000">
+      <title>The Following</title>
+      <episodes>
+        <episode tmsId="EP015680560052">
+          <title>The Reckoning</title>
+          <playId>the-following_03_15</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP015680560051">
+          <title>Dead or Alive</title>
+          <playId>the-following_03_14</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP015680560050">
+          <title>A Simple Trade</title>
+          <playId>the-following_03_13</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP015680560049">
+          <title>The Edge</title>
+          <playId>the-following_03_12</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Demons</title>
+          <playId>the-following_03_11</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH012792980000">
+      <title>Bob's Burgers</title>
+      <episodes>
+        <episode tmsId="EP012792980090">
+          <title>The Oeder Games</title>
+          <playId>bobs-burgers_05_21</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012792980089">
+          <title>Hawk &amp; Chick</title>
+          <playId>bobs-burgers_05_20</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012792980088">
+          <title>Housetrap</title>
+          <playId>bobs-burgers_05_19</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012792980087">
+          <title>Eat Spray Linda</title>
+          <playId>bobs-burgers_05_18</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012792980086">
+          <title>The Itty Bitty Ditty Committee</title>
+          <playId>bobs-burgers_05_17</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH017390090000">
+      <title>Brooklyn Nine-Nine</title>
+      <episodes>
+        <episode tmsId="EP017390090043">
+          <title>Johnny &amp; Dora</title>
+          <playId>brooklyn-nine-nine_02_23</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP017390090046">
+          <title>The Chopper</title>
+          <playId>brooklyn-nine-nine_02_22</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP017390090045">
+          <title>Det. Dave Majors</title>
+          <playId>brooklyn-nine-nine_02_21</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP017390090044">
+          <title>AC/DC</title>
+          <playId>brooklyn-nine-nine_02_20</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP017390090042">
+          <title>Sabotage</title>
+          <playId>brooklyn-nine-nine_02_19</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH002960010000">
+      <title>Family Guy</title>
+      <episodes>
+        <episode tmsId="EP002960010280">
+          <title>Take My Wife</title>
+          <playId>family-guy_13_18</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP002960010279">
+          <title>Fighting Irish</title>
+          <playId>family-guy_13_17</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP002960010278">
+          <title>Roasted Guy</title>
+          <playId>family-guy_13_16</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP002960010277">
+          <title>Once Bitten</title>
+          <playId>family-guy_13_15</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP002960010275">
+          <title>JOLO</title>
+          <playId>family-guy_13_14</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH000186930000">
+      <title>The Simpsons</title>
+      <episodes>
+        <episode tmsId="EP000186930607">
+          <title>Mathlete's Feat</title>
+          <playId>the-simpsons_26_22</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP000186930611">
+          <title>Bull-E</title>
+          <playId>the-simpsons_26_21</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP000186930610">
+          <title>Let's Go Fly A Coot</title>
+          <playId>the-simpsons_26_20</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP000186930609">
+          <title>The Kids Are All Fight</title>
+          <playId>the-simpsons_26_19</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP000186930608">
+          <title>Peeping Mom</title>
+          <playId>the-simpsons_26_18</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH014192030000">
+      <title>New Girl</title>
+      <episodes>
+        <episode tmsId="">
+          <title>Clean Break</title>
+          <playId>new-girl_04_22</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP014192030099">
+          <title>Panty Gate</title>
+          <playId>new-girl_04_21</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP014192030098">
+          <title>Par 5</title>
+          <playId>new-girl_04_20</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP014192030097">
+          <title>The Right Thing</title>
+          <playId>new-girl_04_19</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP014192030090">
+          <title>Walk of Shame</title>
+          <playId>new-girl_04_18</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH019213510000">
+      <title>Weird Loners</title>
+      <episodes>
+        <episode tmsId="">
+          <title>We're Here. We're Weird. Get Used to Us.</title>
+          <playId>weird-loners_01_06</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019213510006">
+          <title>The Weirdfather</title>
+          <playId>weird-loners_01_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019213510005">
+          <title>Weird Knight</title>
+          <playId>weird-loners_01_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019213510004">
+          <title>Weirded Out</title>
+          <playId>weird-loners_01_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019213510003">
+          <title>Weird Dance</title>
+          <playId>weird-loners_01_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019213510001">
+          <title>Weird Pilot</title>
+          <playId>weird-loners_01_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH018764110000">
+      <title>Gotham</title>
+      <episodes>
+        <episode tmsId="">
+          <title>All Happy Families Are Alike</title>
+          <playId>gotham_01_22</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018764110023">
+          <title>The Anvil and the Hammer</title>
+          <playId>gotham_01_21</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018764110022">
+          <title>Under the Knife</title>
+          <playId>gotham_01_20</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018764110021">
+          <title>Beasts of Prey</title>
+          <playId>gotham_01_19</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018764110019">
+          <title>Everyone Has a Cobblepot</title>
+          <playId>gotham_01_18</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH019213490000">
+      <title>The Last Man On Earth</title>
+      <episodes>
+        <episode tmsId="EP019213490018">
+          <title>Screw the Moon</title>
+          <playId>the-last-man-on-earth_01_12</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019213490015">
+          <title>The Tandyman Can</title>
+          <playId>the-last-man-on-earth_01_11</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019213490017">
+          <title>Moved to Tampa</title>
+          <playId>the-last-man-on-earth_01_10</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019213490016">
+          <title>Pranks for Nothing</title>
+          <playId>the-last-man-on-earth_01_09</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019213490011">
+          <title>The Do-Over</title>
+          <playId>the-last-man-on-earth_01_08</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH018572320000">
+      <title>Backstrom</title>
+      <episodes>
+        <episode tmsId="EP018572320009">
+          <title>Rock Bottom</title>
+          <playId>backstrom_01_13</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018572320013">
+          <title>Corkscrewed</title>
+          <playId>backstrom_01_12</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018572320012">
+          <title>I Like to Watch</title>
+          <playId>backstrom_01_11</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018572320011">
+          <title>Love is a Rose and You Better Not Pick It</title>
+          <playId>backstrom_01_10</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018572320010">
+          <title>Inescapable Truth</title>
+          <playId>backstrom_01_09</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH015680280000">
+      <title>The Mindy Project</title>
+      <episodes>
+        <episode tmsId="EP015680280074">
+          <title>Best Man</title>
+          <playId>the-mindy-project_03_21</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP015680280073">
+          <title>What to Expect When You're Expanding</title>
+          <playId>the-mindy-project_03_20</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP015680280072">
+          <title>Confessions of a Catho-holic</title>
+          <playId>the-mindy-project_03_19</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP015680280071">
+          <title>Fertility Bites</title>
+          <playId>the-mindy-project_03_18</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP015680280070">
+          <title>Danny Castellano is My Nutritionist</title>
+          <playId>the-mindy-project_03_17</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH011413890000">
+      <title>Glee</title>
+      <episodes>
+        <episode tmsId="EP011413890128">
+          <title>Dreams Come True</title>
+          <playId>glee_06_13</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP011413890127">
+          <title>2009</title>
+          <playId>glee_06_12</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP011413890126">
+          <title>We Built This Glee Club</title>
+          <playId>glee_06_11</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP011413890125">
+          <title>The Rise and Fall of Sue Sylvester</title>
+          <playId>glee_06_10</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP011413890124">
+          <title>Child Star</title>
+          <playId>glee_06_09</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH017379350000">
+      <title>MasterChef Junior</title>
+      <episodes>
+        <episode tmsId="EP012513470047">
+          <title>The Finale</title>
+          <playId>masterchef-junior_03_08</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470046">
+          <title>The Creme de la Creme...Brulee</title>
+          <playId>masterchef-junior_03_07</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470045">
+          <title>Restaurant Takeover</title>
+          <playId>masterchef-junior_03_06</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470097">
+          <title>Family Style</title>
+          <playId>masterchef-junior_05_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470043">
+          <title>Raw Talent</title>
+          <playId>masterchef-junior_03_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470042">
+          <title>Grandad Gordon!</title>
+          <playId>masterchef-junior_03_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470041">
+          <title>Easy as Pie</title>
+          <playId>masterchef-junior_03_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470040">
+          <title>The Class of 2015</title>
+          <playId>masterchef-junior_03_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470017">
+          <title>The Finale</title>
+          <playId>masterchef-junior_02_07</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470016">
+          <title>A Cut Above the Rest</title>
+          <playId>masterchef-junior_02_06</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470015">
+          <title>Pop-Up Restaurant</title>
+          <playId>masterchef-junior_02_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470014">
+          <title>An Egg-Cellent Adventure</title>
+          <playId>masterchef-junior_02_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470013">
+          <title>Mom Knows Best</title>
+          <playId>masterchef-junior_02_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470012">
+          <title>Flip It</title>
+          <playId>masterchef-junior_02_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP012513470011">
+          <title>The Next Generation</title>
+          <playId>masterchef-junior_02_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH017390480000">
+      <title>Sleepy Hollow</title>
+      <episodes>
+        <episode tmsId="EP017390480034">
+          <title>Tempus Fugit</title>
+          <playId>sleepy-hollow_02_18</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP017390480033">
+          <title>Awakening</title>
+          <playId>sleepy-hollow_02_17</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP017390480032">
+          <title>What Lies Beneath</title>
+          <playId>sleepy-hollow_02_16</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP017390480031">
+          <title>Spellcaster</title>
+          <playId>sleepy-hollow_02_15</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP017390480030">
+          <title>Kali Yuga</title>
+          <playId>sleepy-hollow_02_14</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH018764190000">
+      <title>Mulaney</title>
+      <episodes>
+        <episode tmsId="EP018764190014">
+          <title>Life is a Series of Different Apartments</title>
+          <playId>mulaney_01_13</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018764190013">
+          <title>Ruby</title>
+          <playId>mulaney_01_12</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018764190006">
+          <title>Power Moves</title>
+          <playId>mulaney_01_11</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018764190012">
+          <title>French Roast</title>
+          <playId>mulaney_01_10</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018764190009">
+          <title>Worlds Collide</title>
+          <playId>mulaney_01_09</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH019212770000">
+      <title>Red Band Society</title>
+      <episodes>
+        <episode tmsId="">
+          <title>Waiting for Superman</title>
+          <playId>red-band-society_01_13</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019212770013">
+          <title>We'll Always Have Paris</title>
+          <playId>red-band-society_01_12</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019212770011">
+          <title>The Guilted Age</title>
+          <playId>red-band-society_01_11</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019212770010">
+          <title>What I Did For Love</title>
+          <playId>red-band-society_01_10</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019212770009">
+          <title>How Did We Get Here?</title>
+          <playId>red-band-society_01_09</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019212770008">
+          <title>Get Outta My Dreams, Get Into My Car</title>
+          <playId>red-band-society_01_08</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019212770007">
+          <title>Know Thyself</title>
+          <playId>red-band-society_01_07</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019212770006">
+          <title>Ergo Ego</title>
+          <playId>red-band-society_01_06</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019212770005">
+          <title>So Tell Me What You Want What You Really, Really Want</title>
+          <playId>red-band-society_01_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019212770004">
+          <title>There's No Place Like Homecoming</title>
+          <playId>red-band-society_01_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019212770003">
+          <title>Liar, Liar Pants on Fire</title>
+          <playId>red-band-society_01_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019212770002">
+          <title>Sole Searching</title>
+          <playId>red-band-society_01_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019212770001">
+          <title>Pilot</title>
+          <playId>red-band-society_01_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH019213280000">
+      <title>Empire</title>
+      <episodes>
+        <episode tmsId="EP019213280006">
+          <title>Dangerous Bonds</title>
+          <playId>empire_01_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019213280005">
+          <title>False Imposition</title>
+          <playId>empire_01_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019213280003">
+          <title>The Devil Quotes Scripture</title>
+          <playId>empire_01_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019213280002">
+          <title>The Outspoken King</title>
+          <playId>empire_01_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP019213280001">
+          <title>Pilot</title>
+          <playId>empire_01_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="SH014787860000">
+      <title>Hotel Hell</title>
+      <episodes>
+        <episode tmsId="EP014787860015">
+          <title>Murphys Hotel</title>
+          <playId>hotel-hell_02_08</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP014787860014">
+          <title>Curtis House</title>
+          <playId>hotel-hell_02_07</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP014787860013">
+          <title>Four Seasons Inn</title>
+          <playId>hotel-hell_02_06</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP014787860012">
+          <title>Calumet Inn</title>
+          <playId>hotel-hell_02_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP014787860011">
+          <title>Hotel Chester</title>
+          <playId>hotel-hell_02_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP014787860010">
+          <title>Applegate River Lodge</title>
+          <playId>hotel-hell_02_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP014787860009">
+          <title>Monticello Hotel</title>
+          <playId>hotel-hell_02_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP014787860008">
+          <title>Meson De Mesilla</title>
+          <playId>hotel-hell_02_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="">
+      <title>Wigs</title>
+      <episodes>
+        <episode tmsId="">
+          <title>SEASON 1, EPISODE 1</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>SEASON 1, EPISODE 2</title>
+          <playId>blue_01_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>SEASON 2, EPISODE 1</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>SEASON 2, EPISODE 2</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>SEASON 2, EPISODE 3</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>SEASON 2, EPISODE 4</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>SEASON 2, EPISODE 5</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>SEASON 3, EPISODE 1</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>SEASON 3, EPISODE 2</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>SEASON 3, EPISODE 3</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>SEASON 3, EPISODE 4</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>EPISODE 1</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>EPISODE 2</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>EPISODE 3</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>EPISODE 1</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>EPISODE 2</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>EPISODE 3</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>EPISODE 1</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>EPISODE 2</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>EPISODE 3</title>
+          <playId/>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <series tmsId="">
+      <title>Animation Domination High-Def</title>
+      <episodes>
+        <episode tmsId="EP018331770006">
+          <title>Big Head Mike</title>
+          <playId>lucas-bros-moving-co_01_06</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018331770005">
+          <title>Beeper Beeper</title>
+          <playId>lucas-bros-moving-co_01_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018331770002">
+          <title>Freedom Town</title>
+          <playId>lucas-bros-moving-co_01_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018331770003">
+          <title>Before &amp; After Models</title>
+          <playId>lucas-bros-moving-co_01_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018331770004">
+          <title>A/C Tundra</title>
+          <playId>lucas-bros-moving-co_01_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP015620370012">
+          <title>The Dumb List</title>
+          <playId>axe-cop_01_12</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP015620370011">
+          <title>Taxi Brothers</title>
+          <playId>axe-cop_01_11</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP018331770001">
+          <title>DDT</title>
+          <playId>lucas-bros-moving-co_01_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP016763570012">
+          <title>Sweet 16</title>
+          <playId>high-school-usa_01_11</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP016763570011">
+          <title>Rumspringabreakers</title>
+          <playId>high-school-usa_01_10</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="EP016763570010">
+          <title>Gun Control</title>
+          <playId>high-school-usa_01_09</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Night Creatures Attack</title>
+          <playId>axe-cop_01_09</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>The Early 90's</title>
+          <playId>high-school-usa_01_08</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Super Axe</title>
+          <playId>axe-cop_01_08</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Choices</title>
+          <playId>high-school-usa_01_07</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>No More Bad Guys</title>
+          <playId>axe-cop_01_07</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>The Rabbit Who Broke All The Rules</title>
+          <playId>axe-cop_01_06</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Birthday Month</title>
+          <playId>axe-cop_01_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Adoption</title>
+          <playId>high-school-usa_01_05</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Heroes</title>
+          <playId>high-school-usa_01_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Babysitting Uni-Baby</title>
+          <playId>axe-cop_01_04</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>An American Story</title>
+          <playId>axe-cop_01_03</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Sexting</title>
+          <playId>high-school-usa_01_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Zombie Island...In Space</title>
+          <playId>axe-cop_01_02</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Bullies</title>
+          <playId>high-school-usa_01_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+        <episode tmsId="">
+          <title>Night Mission: Stealing Friends Back</title>
+          <playId>axe-cop_01_01</playId>
+          <viewOptions>
+            <option>
+              <price>0.00</price>
+              <quality>SD</quality>
+              <license>subscription</license>
+            </option>
+            <option>
+              <price>0.00</price>
+              <quality>HD</quality>
+              <license>subscription</license>
+            </option>
+          </viewOptions>
+        </episode>
+      </episodes>
+    </series>
+    <thePlatformFeedMarker/>
+  </seriesItems>
+</partnerContent>
