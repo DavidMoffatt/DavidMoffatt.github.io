@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:appinfo>Roku partner tms id content feed schema</xs:appinfo>
     <xs:documentation>
@@ -14,7 +14,7 @@
       </xs:documentation>
     </xs:annotation>
     <xs:restriction base="xs:string">
-      <xs:minLength value="1"/>
+      <xs:minLength value="1" />
     </xs:restriction>
   </xs:simpleType>
 
@@ -37,11 +37,11 @@
       </xs:documentation>
     </xs:annotation>
     <xs:restriction base="requiredStringType">
-      <xs:enumeration value="SD"/>
-      <xs:enumeration value="sd"/>
-      <xs:enumeration value="HD"/>
-      <xs:enumeration value="hd"/>
-      <xs:enumeration value="HD+"/>
+      <xs:enumeration value="SD" />
+      <xs:enumeration value="sd" />
+      <xs:enumeration value="HD" />
+      <xs:enumeration value="hd" />
+      <xs:enumeration value="HD+" />
       <xs:enumeration value="hd+">
         <xs:annotation>
           <xs:documentation>
@@ -66,7 +66,7 @@
           </xs:documentation>
         </xs:annotation>
       </xs:enumeration>
-      <xs:enumeration value="Free"/>
+      <xs:enumeration value="Free" />
       <xs:enumeration value="purchase">
         <xs:annotation>
           <xs:documentation>
@@ -74,7 +74,7 @@
           </xs:documentation>
         </xs:annotation>
       </xs:enumeration>
-      <xs:enumeration value="Purchase"/>
+      <xs:enumeration value="Purchase" />
       <xs:enumeration value="rental">
         <xs:annotation>
           <xs:documentation>
@@ -82,7 +82,7 @@
           </xs:documentation>
         </xs:annotation>
       </xs:enumeration>
-      <xs:enumeration value="Rental"/>
+      <xs:enumeration value="Rental" />
       <xs:enumeration value="subscription">
         <xs:annotation>
           <xs:documentation>
@@ -90,7 +90,7 @@
           </xs:documentation>
         </xs:annotation>
       </xs:enumeration>
-      <xs:enumeration value="Subscription"/>
+      <xs:enumeration value="Subscription" />
     </xs:restriction>
   </xs:simpleType>
 
@@ -101,12 +101,12 @@
       </xs:documentation>
     </xs:annotation>
     <xs:restriction base="xs:string">
-      <xs:enumeration value="USD"/>
-      <xs:enumeration value="usd"/>
-      <xs:enumeration value="GBP"/>
-      <xs:enumeration value="gbp"/>
-      <xs:enumeration value="CAD"/>
-      <xs:enumeration value="cad"/>
+      <xs:enumeration value="USD" />
+      <xs:enumeration value="usd" />
+      <xs:enumeration value="GBP" />
+      <xs:enumeration value="gbp" />
+      <xs:enumeration value="CAD" />
+      <xs:enumeration value="cad" />
     </xs:restriction>
   </xs:simpleType>
 
@@ -118,20 +118,20 @@
       </xs:documentation>
     </xs:annotation>
     <xs:restriction base="xs:string">
-      <xs:enumeration value="us"/>
-      <xs:enumeration value="US"/>
-      <xs:enumeration value="ca"/>
-      <xs:enumeration value="CA"/>
-      <xs:enumeration value="gb"/>
-      <xs:enumeration value="GB"/>
-      <xs:enumeration value="ie"/>
-      <xs:enumeration value="IE"/>
+      <xs:enumeration value="us" />
+      <xs:enumeration value="US" />
+      <xs:enumeration value="ca" />
+      <xs:enumeration value="CA" />
+      <xs:enumeration value="gb" />
+      <xs:enumeration value="GB" />
+      <xs:enumeration value="ie" />
+      <xs:enumeration value="IE" />
     </xs:restriction>
   </xs:simpleType>
 
   <xs:simpleType name="playIdType">
     <xs:restriction base="requiredStringType">
-      <xs:maxLength value="50"/>
+      <xs:maxLength value="50" />
     </xs:restriction>
   </xs:simpleType>
 
@@ -145,12 +145,12 @@
                 <xs:documentation>If omitted, us will be default</xs:documentation>
               </xs:annotation>
             </xs:element>
-            <xs:element name="playId" type="playIdType" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="playId" type="playIdType" minOccurs="1" maxOccurs="1" />
             <xs:element name="viewOptions" type="viewOptionsType" minOccurs="1" maxOccurs="1">
               <xs:unique name="uniqueVideoOptions">
-                <xs:selector xpath="option"/>
-                <xs:field xpath="quality"/>
-                <xs:field xpath="license"/>
+                <xs:selector xpath="option" />
+                <xs:field xpath="quality" />
+                <xs:field xpath="license" />
               </xs:unique>
             </xs:element>
           </xs:all>
@@ -178,8 +178,8 @@
                 </xs:documentation>
               </xs:annotation>
             </xs:element>
-            <xs:element name="quality" type="qualityType" minOccurs="1" maxOccurs="1"/>
-            <xs:element name="license" type="licenseType" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="quality" type="qualityType" minOccurs="1" maxOccurs="1"  />
+            <xs:element name="license" type="licenseType" minOccurs="1" maxOccurs="1" />
           </xs:all>
         </xs:complexType>
       </xs:element>
@@ -209,8 +209,8 @@
 
   <xs:group name="oldStyle">
     <xs:sequence>
-      <xs:element name="playId" type="playIdType" minOccurs="1" maxOccurs="1"/>
-      <xs:element name="viewOptions" type="viewOptionsType" minOccurs="1" maxOccurs="1"/>
+      <xs:element name="playId" type="playIdType" minOccurs="1" maxOccurs="1" />
+      <xs:element name="viewOptions" type="viewOptionsType" minOccurs="1" maxOccurs="1" />
     </xs:sequence>
   </xs:group>
 
@@ -223,61 +223,61 @@
               <xs:element name="movie" maxOccurs="unbounded">
                 <xs:complexType>
                   <xs:sequence>
-                    <xs:element name="title" minOccurs="0" maxOccurs="1"/>
+                    <xs:element name="title" minOccurs="0" maxOccurs="1"  />
                     <xs:choice>
-                      <xs:element name="videos" type="videosType" minOccurs="1" maxOccurs="1"/>
-                      <xs:group ref="oldStyle"/>
+                      <xs:element name="videos" type="videosType" minOccurs="1" maxOccurs="1" />
+                      <xs:group ref="oldStyle" />
                     </xs:choice>
                   </xs:sequence>
-                  <xs:attribute name="tmsId" type="tmsIdType" use="required"/>
+                  <xs:attribute name="tmsId" type="tmsIdType" use="required" />
                 </xs:complexType>
               </xs:element>
             </xs:sequence>
           </xs:complexType>
           <xs:unique name="uniqueMovieTmsId">
-            <xs:selector xpath="movie"/>
-            <xs:field xpath="@tmsId"/>
+            <xs:selector xpath="movie" />
+            <xs:field xpath="@tmsId" />
           </xs:unique>
         </xs:element>
 
         <xs:element name="seriesItems" minOccurs="0" maxOccurs="1">
           <xs:complexType>
             <xs:sequence>
-              <xs:element name="series" minOccurs="1" maxOccurs="unbounded">
+              <xs:element name="series"  minOccurs="1" maxOccurs="unbounded">
                 <xs:complexType>
                   <xs:all>
-                    <xs:element name="title" minOccurs="0" maxOccurs="1"/>
+                    <xs:element name="title" minOccurs="0" maxOccurs="1" />
                     <xs:element name="episodes" minOccurs="1" maxOccurs="1">
                       <xs:complexType>
                         <xs:sequence>
                           <xs:element name="episode" minOccurs="1" maxOccurs="unbounded">
                             <xs:complexType>
                               <xs:sequence>
-                                <xs:element name="title" minOccurs="0" maxOccurs="1"/>
+                                <xs:element name="title" minOccurs="0" maxOccurs="1"  />
                                 <xs:choice>
-                                  <xs:element name="videos" type="videosType" minOccurs="1" maxOccurs="1"/>
-                                  <xs:group ref="oldStyle"/>
+                                  <xs:element name="videos" type="videosType" minOccurs="1" maxOccurs="1" />
+                                  <xs:group ref="oldStyle" />
                                 </xs:choice>
                               </xs:sequence>
-                              <xs:attribute name="tmsId" type="tmsIdType" use="required"/>
+                              <xs:attribute name="tmsId" type="tmsIdType" use="required" />
                             </xs:complexType>
                           </xs:element>
                         </xs:sequence>
                       </xs:complexType>
                       <xs:unique name="uniqueEpisodeTmsId">
-                        <xs:selector xpath="episode"/>
-                        <xs:field xpath="@tmsId"/>
+                        <xs:selector xpath="episode" />
+                        <xs:field xpath="@tmsId" />
                       </xs:unique>
                     </xs:element>
                   </xs:all>
-                  <xs:attribute name="tmsId" type="tmsIdType" use="required"/>
+                  <xs:attribute name="tmsId" type="tmsIdType" use="required" />
                 </xs:complexType>
               </xs:element>
             </xs:sequence>
           </xs:complexType>
           <xs:unique name="uniqueSeriesTmsId">
-            <xs:selector xpath="series"/>
-            <xs:field xpath="@tmsId"/>
+            <xs:selector xpath="series" />
+            <xs:field xpath="@tmsId" />
           </xs:unique>
         </xs:element>
       </xs:all>
