@@ -25,7 +25,7 @@
 </viewOptions>
 </episode>
 <episode tmsId="EP017123060018"><title>&lt;![CDATA[Kirk Steele]]&gt;</title>
-<playId>a2b3b0b2-a3f1-412c-a6d8-8dd8c9bc3d3e;autoplay=false</playId>
+<playId>a2b3b0b2-a3f1-412c-a6d8-8dd8c9bc3d;autoplay=false</playId>
 <viewOptions><option><quality>SD</quality>
 <license>subscription</license>
 <price>0.00</price>
@@ -37,7 +37,7 @@
 </viewOptions>
 </episode>
 <episode tmsId="EP017123060017"><title>&lt;![CDATA[Citizen Ship]]&gt;</title>
-<playId>%3Abf586669-2b86-4067-9df2-8af766f35f35;autoplay=false</playId>
+<playId>%3Abf586669-2b86-4067-9df2-8af76635;autoplay=false</playId>
 <viewOptions><option><quality>SD</quality>
 <license>subscription</license>
 <price>0.00</price>
